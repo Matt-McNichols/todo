@@ -1,2 +1,8 @@
+make dentist appt
+ Chapter 6 of the PCI Local Bus Specification v3.0.
+msi isr
 Move Tomorrow
 write bpm a check
+sign up for CS major
+get physical
+eyedoctor appt
