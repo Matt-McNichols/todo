@@ -1,8 +1,12 @@
 make dentist appt
- Chapter 6 of the PCI Local Bus Specification v3.0.
 msi isr
-Move Tomorrow
-write bpm a check
 sign up for CS major
+MSI config
 get physical
 eyedoctor appt
+Document code
+where is MSI_IQR
+slides for friday MTS
+header files for sv
+get formal info on nvme
+make randomization consistant
